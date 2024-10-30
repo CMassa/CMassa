@@ -32,7 +32,7 @@
     </div>
     <div>
         <a href="https://tryhackme.com/p/CMassa">
-            <img src="https://tryhackme-badges.s3.amazonaws.com/CMassa.png" height="51" width="220" alt="TryHackMe">
+            <img src="https://tryhackme-badges.s3.amazonaws.com/CMassa.png" height="51" width="220" alt="TryHackMe" />
         </a>
         <a href="https://www.hackthebox.com/home/users/profile/119656">
             <img src="http://www.hackthebox.eu/badge/image/119656" alt="Hack The Box">
