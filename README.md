@@ -29,6 +29,7 @@
         <img src="https://images.credly.com/size/340x340/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" width="70" height="70" alt="OSCP">
         <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*f9CO-HTghdvMLKweeAv0Aw.png" width="70" height="70" alt="CRTP">
         <img src="https://media.eu.badgr.com/uploads/badges/assertion-9foqE6waSSmMqWWC57B3YA.png" width="70" height="70" alt="CRTO">
+        <img src="https://images.credly.com/images/24af3283-ed59-422b-a29c-c274b4df55d8/image.png" width="70" height="70" alt="CBBH">
     </div>
     <div>
         <a href="https://tryhackme.com/p/CMassa">
